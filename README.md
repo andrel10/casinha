@@ -110,12 +110,11 @@ http://192.168.1.200/?apagarLuz
 
 Liste o time responsável pelo desenvolvimento do projeto
 
-|[<sub>Anderson Besbatti</sub>](https://github.com/andersonbesbatti) 
-|[<sub>André Follmann</sub>](https://github.com/andrel10) 
-|[<sub>Carlos Ely Leite Junior</sub>](https://github.com/carlos059) 
-|[<sub>Fabiano Borges Amaral</sub>](https://github.com/fabianoborgesamaral) 
+|[<sub>Anderson Besbatti</sub>](https://github.com/andersonbesbatti) |
+|[<sub>André Follmann</sub>](https://github.com/andrel10) |
+|[<sub>Carlos Ely Leite Junior</sub>](https://github.com/carlos059) |
+|[<sub>Fabiano Borges Amaral</sub>](https://github.com/fabianoborgesamaral) |
 |[<sub>Marianne Pissaia</sub>](https://github.com/mariannepissaia) |
-| :---: | :---: | :---: 
 
 ## Licença 
 
