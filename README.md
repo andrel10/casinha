@@ -110,10 +110,11 @@ http://192.168.1.200/?apagarLuz
 
 Liste o time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Anderson Besbatti</sub>](https://github.com/andersonbesbatti) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>André Follmann</sub>](https://github.com/andrel10) |  
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Carlos Ely Leite Junior</sub>](https://github.com/carlos059) |
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Fabiano Borges Amaral</sub>](https://github.com/fabianoborgesamaral) |
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Marianne Pissaia</sub>](https://github.com/mariannepissaia) |
+|[<sub>Anderson Besbatti</sub>](https://github.com/andersonbesbatti) 
+|<sub>André Follmann</sub>](https://github.com/andrel10) 
+|<sub>Carlos Ely Leite Junior</sub>](https://github.com/carlos059) |
+[<sub>Fabiano Borges Amaral</sub>](https://github.com/fabianoborgesamaral) |
+[<sub>Marianne Pissaia</sub>](https://github.com/mariannepissaia) |
 | :---: | :---: | :---: 
 
 ## Licença 
