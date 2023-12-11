@@ -94,6 +94,12 @@ http://192.168.1.200/?ligarLuz
 Apagar luz:
 http://192.168.1.200/?apagarLuz
 
+Ativar Alarme:
+http://192.168.1.200/?ativarAlarme
+
+Desativar Alarme:
+http://192.168.1.200/?desarmarAlarme
+
 
 
 
