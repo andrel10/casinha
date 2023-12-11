@@ -112,8 +112,6 @@ http://192.168.1.200/?desarmarAlarme
 
 ## Desenvolvedores/Contribuintes :octocat:
 
-Liste o time responsável pelo desenvolvimento do projeto
-
 |[<sub>Anderson Besbatti</sub>](https://github.com/andersonbesbatti) |
 |[<sub>André Follmann</sub>](https://github.com/andrel10) |
 |[<sub>Carlos Ely Leite Junior</sub>](https://github.com/carlos059) |
